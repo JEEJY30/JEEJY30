@@ -1,4 +1,4 @@
-[![MasterHead](https://cutewallpaper.org/28/cyber-wallpaper-gif/pixelated-minidump-pixel-art-background-pixel-city-desktop-wallpaper-art.gif)]
+![MasterHead](https://cutewallpaper.org/28/cyber-wallpaper-gif/pixelated-minidump-pixel-art-background-pixel-city-desktop-wallpaper-art.gif)
 <h1 align="center">Hi 👋, I'm George Gorgodze</h1>
 <h3 align="center">Security Engineer | Information Security | CIA | ISO 27001 | Highly motivated and dedicated entry-level cybersecurity analyst with hands-on experience in the field.</h3>
 
