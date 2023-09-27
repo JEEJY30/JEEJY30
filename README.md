@@ -19,7 +19,7 @@
 <img margin="20" alt="coding" width="400px" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jeejy30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeejy30/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jeejy30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeejy30/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jeejy_ts1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeejy" height="30" width="40" /></a>
 </p>
 
