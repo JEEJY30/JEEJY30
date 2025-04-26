@@ -1,17 +1,17 @@
 ![MasterHead](https://cutewallpaper.org/28/cyber-wallpaper-gif/pixelated-minidump-pixel-art-background-pixel-city-desktop-wallpaper-art.gif)
 <h1 align="center">Hi 👋, I'm George Gorgodze</h1>
-<h3 align="center">Security Engineer | Information Security | CIA | ISO 27001 | Highly motivated and dedicated entry-level cybersecurity analyst with hands-on experience in the field.</h3>
+<h3 align="center">Security Engineer | Information Security Analyst| Highly motivated and dedicated DevSecOps  with hands-on experience in the field.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeejy30&label=Profile%20views&color=0e75b6&style=flat" alt="jeejy30" /> </p>
 
-- 🔭 I’m currently working on **CompTia Security+ Certification**
+- 🔭 I’m currently holding **CEH**
 
-- 🌱 I’m currently learning **NIST, CIS**
+- 🌱 I’m currently learning **everything**
 
-- 👯 I’m looking to collaborate on **Assess Security Concerns**
+- 👯 I’m looking to collaborate on **Security Pipeline**
 
-- 💬 Ask me about **C, Hardening any machines**
+- 💬 Ask me about **Go, Hardening any machines**
 
 - 📫 How to reach me **gio1818ggg@gmail.com**
 
